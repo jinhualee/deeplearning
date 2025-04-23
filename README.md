@@ -29,7 +29,7 @@
 - ### （5）图示与代码**对照解读**
 <img src='https://github.com/jinhualee/images/blob/main/zhushi5.png' width=600px />
 
-## 3. 参考书籍
+## 3. 教材参考
 
 <img src='https://github.com/jinhualee/images/blob/main/0_1.png' width=600px />
 

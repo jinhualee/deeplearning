@@ -4,28 +4,28 @@
 ## 课程特色
 - （1）**注释全面细致**
 
-<img src='https://github.com/jinhualee/images/zhushi1.png' width=500px />
+<img src='https://github.com/jinhualee/images/blob/main/zhushi1.png' width=500px />
 
 - （2）对原教材的内容进行**更透彻的讲解**
-<img src='https://github.com/jinhualee/images/zhushi2.png' width=500px />
+<img src='https://github.com/jinhualee/images/blob/main/zhushi2.png' width=500px />
 
 - （3）补充深度学习涉及到的**基础编程知识**
-<img src='https://github.com/jinhualee/images/zhushi3.png' width=500px />
+<img src='https://github.com/jinhualee/images/blob/main/zhushi3.png' width=500px />
 
 - （4）解析深度学习中涉及到的**数据结构**
 
-<img src='https://github.com/jinhualee/images/zhushi4.png' width=500px />
+<img src='https://github.com/jinhualee/images/blob/main/zhushi4.png' width=500px />
 
 - （5）图示与代码**对照解读**
-<img src='https://github.com/jinhualee/images/zhushi5.png' width=500px />
+<img src='https://github.com/jinhualee/images/blob/main/zhushi5.png' width=500px />
 
 ## 参考书籍
 
-<img src='https://github.com/jinhualee/images/0_1.png' width=500px />
+<img src='https://github.com/jinhualee/images/blob/main/0_1.png' width=500px />
 
 ## 课程内容
 
-<img src='https://github.com/jinhualee/images/0_3.png' width=500px />
+<img src='https://github.com/jinhualee/images/blob/main//0_3.png' width=500px />
 
 
 
